@@ -1,0 +1,6 @@
+framework module Pods_BeyondMe_BeyondMeUITests {
+  umbrella header "Pods-BeyondMe-BeyondMeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
